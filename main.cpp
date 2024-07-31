@@ -7,7 +7,7 @@ using namespace std;
 // Função principal
 int main() {
     
-    cout << "Hello World!\n";
+    cout << "Alô Mundo!\n";
     
     return 0;
 
